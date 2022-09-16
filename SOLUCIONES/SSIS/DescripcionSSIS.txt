@@ -1,0 +1,1 @@
+Se encuentran carpetas de SSIS 2012 y 2017

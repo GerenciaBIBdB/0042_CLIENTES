@@ -1,0 +1,2 @@
+Carpeta soluciones.
+Se encuentra dividida por carpeta: SSIS, SSAS, DATASTAGE, ESSBASE
